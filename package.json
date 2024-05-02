@@ -6,12 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index 'mongodb+srv://Giovana226759:giovana@giovana226759.xbcbmls.mongodb.net/tarefasDB?retryWrites=true&w=majority&appName=Giovana226759'"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^8.3.2"
+    "mongoose": "^8.3.3"
   }
 }
